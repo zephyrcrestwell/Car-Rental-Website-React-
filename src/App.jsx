@@ -7,8 +7,8 @@ import Landing from "./components/landing";
 import Nav from "./components/Nav";
 import Testimonials from "./components/testimonials";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home"
-import Models from "./pages/Models";
+import Home from "./pages/home"
+import Models from "./pages/models";
 function App() {
   return (
     <>
